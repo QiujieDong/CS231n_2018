@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fcd253d-a0a8-47a9-ae6b-2b6ac964e88c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs231n/classifiers/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs231n/classifiers/rnn.py" afterDir="false" />
-    </list>
+    <list default="true" id="6fcd253d-a0a8-47a9-ae6b-2b6ac964e88c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,31 +12,121 @@
     <session id="437859081">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="14" />
+          <entry key="pyx" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cs231n/classifiers/rnn.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/fast_layers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="266" column="78" selection-start-line="266" selection-start-column="78" selection-end-line="266" selection-end-column="78" />
+            <state relative-caret-position="-5214">
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/gradient_check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2090">
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/im2col.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-484">
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/im2col_cython.pyx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1890" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/image_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/layer_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3080">
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/layers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5874" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/optim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1078" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs231n/rnn_layers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1474">
+              <caret line="463" column="17" selection-start-line="463" selection-start-column="17" selection-end-line="463" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cs231n/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,10 +141,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cs231n/classifiers/rnn.py" />
+        <option value="$PROJECT_DIR$/cs231n/rnn_layers.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1080" />
     <option name="y" value="25" />
     <option name="width" value="1060" />
@@ -152,10 +240,121 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cs231n/classifiers/rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
+        <state relative-caret-position="1100">
           <caret line="266" column="78" selection-start-line="266" selection-start-column="78" selection-end-line="266" selection-end-column="78" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/classifiers/squeezenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/captioning_solver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4268">
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/coco_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5016">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/fast_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5214">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/gradient_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2090">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/im2col.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/im2col_cython.pyx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/image_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/layer_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3080">
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/optim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/rnn_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1474">
+          <caret line="463" column="17" selection-start-line="463" selection-start-column="17" selection-end-line="463" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs231n/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
